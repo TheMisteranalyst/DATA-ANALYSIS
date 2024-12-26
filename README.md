@@ -13,7 +13,7 @@ Use of Python's built-in tools for scalable and reusable analysis workflows.**
 
 ## Reports
 ### 1. Funding Trends by Location
--  Key Findings:
+- Key Findings:
 - **Bangalore emerged as the top city with the highest number of funding events, reflecting its dominance as India’s startup hub.**
 - **Mumbai and New Delhi secured the second and third positions, highlighting their roles as significant investment centers.**
 - **Gurgaon and Pune also featured prominently, indicating their growing importance in the startup ecosystem.**
